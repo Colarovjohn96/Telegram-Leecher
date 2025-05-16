@@ -8,6 +8,7 @@ moviepy
 natsort
 opencv-python
 Pillow
+pyroblack==2.5.0
 psutil
 pytz
 requests
